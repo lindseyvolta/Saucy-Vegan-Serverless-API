@@ -1,0 +1,11 @@
+{
+    "body": "{\"name\":\"Thai Peanut Sauce\"}",
+    "pathParameters": {
+      "id": "63d26be0-4074-11ea-896f-07c462cc5996"
+    },
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
